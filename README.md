@@ -18,12 +18,6 @@
 > 
 > 关于我们请看[团队风采](team.md)
 
-相关链接:
-
-- [博客](https://femessage.github.io/blog/)
-- [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
-- [Medium](http://medium.com/deepexi)
-
 ## 初试题目
 
 - [初级题目](exam-junior.md)
@@ -46,7 +40,5 @@
 如果 Github 有 Stars 超过 100 的项目，直接给我，说明你充当的角色，我会去看代码；
 
 如果 Stars 超过 500 ，我们直接聊聊吧。谈谈你想要的。
-
-[⬆ Back to Top](#目录)
 
 [⬆ Back to Top](#目录)
