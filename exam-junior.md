@@ -1,6 +1,6 @@
 # 面试题目
 
-根据下面三个链接：
+根据下面两个链接：
 
 - https://github.com/ElemeFE/element
 - https://github.com/FEMessage/yapi
